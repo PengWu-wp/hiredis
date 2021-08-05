@@ -2,6 +2,13 @@
 
 **This Readme reflects the latest changed in the master branch. See [v1.0.0](https://github.com/redis/hiredis/tree/v1.0.0) for the Readme and documentation for the latest release ([API/ABI history](https://abi-laboratory.pro/?view=timeline&l=hiredis)).**
 
+# Wp's tutorial
+
+To use hiredis, just:
+
+make & sudo make install
+
+
 # HIREDIS
 
 Hiredis is a minimalistic C client library for the [Redis](https://redis.io/) database.
