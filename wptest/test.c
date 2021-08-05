@@ -13,6 +13,7 @@ void test(void)
 
     printf("connect redisServer success!\n");
 
+    redisReply *reply;
 /*    const char *cmd = "SET wp qwe";
     redisReply *reply = (redisReply *)redisCommand(context, cmd);
 
