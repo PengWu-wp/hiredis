@@ -6,8 +6,9 @@
 
 To use hiredis, just:
 
+```bash
 make & sudo make install
-
+```
 
 # HIREDIS
 
